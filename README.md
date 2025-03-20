@@ -1,4 +1,4 @@
-git clone https://github.com/nananghandriyanto/psmk.git
+git clone https://github.com/psmk/psmk.git
 cd portfolio
 https://script.google.com/macros/s/AKfycbxCRpSjtGaNzsXd6v0e_YQTjcqGwUCCpe2-XCPsZiv3sbmozFy7qjYAE2C_9bjei688CA/exec
 git add psmk.html
